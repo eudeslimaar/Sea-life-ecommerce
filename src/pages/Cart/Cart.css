@@ -1,0 +1,20 @@
+.cart-message {
+    margin: 0 auto;
+    margin-top: 200px;
+    max-width: 500px !important;
+  }
+
+.card-header,
+.card-footer{
+  background: var(--bgcolor01);
+  color: var(--textcolor02);
+}
+.btn-primary{
+  color: var(--textcolor02);
+  background-color: var(--bgcolor03);
+  border: none;
+}
+.btn-primary:hover{
+  color: var(--textcolor02);
+  background-color: var(--bgcolor01);
+}

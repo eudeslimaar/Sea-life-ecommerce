@@ -1,0 +1,37 @@
+.link a {
+    text-decoration: none;
+    color: black;
+}
+.link__item {
+    margin: 10px 20px -40px 20px;
+    transition: ease 400ms;
+}
+.link__item:hover {
+  
+    transform: scale(1.02) !important;
+    color: rgb(209, 209, 238);
+}
+
+.counter__content{
+  background-color: rgb(255, 255, 255)!important;
+  
+}
+.counter__content h5{
+  text-align: center;
+  color: var(--textcolor06);
+}
+.counter__content h6{
+  padding: 8px 0 0 ;
+  color: var(--textcolor07);
+}
+
+.card{
+  
+  margin: 10px 20px;
+}
+.detail{
+  text-align: center;
+  color: var(--textcolor02);
+  background-color: var(--bgcolor01);
+  height: 30px;
+}

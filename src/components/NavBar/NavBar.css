@@ -1,0 +1,31 @@
+.navbar {
+     color: white;
+     background-color: var(--bgcolor01) !important;
+}
+.nav-link{
+     color: var(--textcolor02);
+}
+.navbar-brand img{
+     max-width:120px;
+     }
+
+
+.menu ul{
+     display: flex;
+     align-items: center;
+     color: var();
+}
+
+   
+@media only screen and (max-width: 420px) {
+     .navbar-brand{
+          width: 100%;
+          text-align: center;
+     }
+     .menu{
+          width: 100%;
+          justify-content: center;
+     }
+}
+
+   
