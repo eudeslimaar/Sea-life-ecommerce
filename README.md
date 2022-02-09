@@ -8,7 +8,7 @@ Proyecto de E-commerce de equipos de pescas.
 
 # Introducción
 
-El proyecto tiene las seguientes carateristicas:
+El proyecto tiene las seguientes características:
 
 - [x] Bootstrap
 - [x] react-router-dom
