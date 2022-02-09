@@ -1,17 +1,17 @@
-# Sea Life projecto
+# Sea Life Proyecto
+## Autor: Eudes Lima 
 
 Proyecto de E-commerce de equipos de pescas.
 
- ![ Lifesea ](./src/assets/lifesea.png)
+ ![ Lifesea ](./src/assets/lifeseareadme.png)
 
 
-# Introducion
+# Introducción
 
 El proyecto tiene las seguientes carateristicas:
 
 - [x] Bootstrap
 - [x] react-router-dom
-- [x]
 - [x] Context
 - [x] Firebase
 
